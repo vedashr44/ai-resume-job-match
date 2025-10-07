@@ -1,0 +1,11 @@
+job_id,job_title,company,location,description,skills
+SWENG001,Software Engineer,TechNova Labs,San Francisco,CA,"Develop and maintain scalable backend services for cloud-native applications. Collaborate with cross-functional teams to deliver machine learning features into production.",Python;Django;AWS;Machine Learning;APIs
+DSCI002,Data Scientist,Insight Analytics,New York,NY,"Build predictive models to improve customer engagement and retention. Work with large structured and unstructured datasets to extract insights.",Python;Pandas;Scikit-learn;Statistics;SQL
+MLENG003,Machine Learning Engineer,Visionary AI,Boston,MA,"Deploy computer vision and NLP models to production. Optimize model performance and automate retraining pipelines.",Python;TensorFlow;PyTorch;MLOps;Computer Vision;NLP
+DAENG004,Data Engineer,DataFlow Systems,Austin,TX,"Design ETL pipelines and manage cloud data warehousing solutions. Ensure data quality and reliability across analytics platforms.",Python;SQL;ETL;Airflow;AWS Redshift;Data Modeling
+RSE005,Research Scientist AI,DeepThink Labs,Seattle,WA,"Conduct applied research in generative AI and large language models. Prototype new architectures and publish findings.",Python;Deep Learning;PyTorch;Research;NLP;Transformers
+PM006,Product Manager AI,InnovateX,Remote,Remote,"Lead product strategy for AI-driven features. Collaborate with engineering and design to define roadmap and deliver value.",Product Strategy;AI;Roadmapping;Stakeholder Management;Agile
+NLP007,NLP Engineer,LanguageTech,Chicago,IL,"Build NLP pipelines for text classification and entity recognition. Evaluate embeddings and transformer models.",Python;NLP;Spacy;Transformers;FastAPI
+BI008,Business Intelligence Analyst,DataSight,Denver,CO,"Create dashboards and reports for executive stakeholders. Translate business requirements into metrics and KPIs.",SQL;PowerBI;Data Visualization;Storytelling;Excel
+CV009,Computer Vision Engineer,PixelWorks,Los Angeles,CA,"Develop object detection and segmentation models for edge devices. Optimize inference for latency constraints.",Python;OpenCV;TensorRT;Deep Learning;C++
+SRE010,Site Reliability Engineer,CloudOps,Atlanta,GA,"Automate infrastructure monitoring and incident response. Improve observability and reliability across distributed systems.",Python;Kubernetes;Observability;Incident Response;Terraform
